@@ -1,4 +1,4 @@
-<b>Code book</b>
+<b>Code book</b><br>
 This is the code book for tidy data set
 
 Variables Description
