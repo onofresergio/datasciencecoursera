@@ -1,7 +1,7 @@
 <b>Code book</b><br>
 This is the code book for tidy data set
 
-Variables Description
+<b>Variables Description</b><br>
 Data read from project data files. For description of each data files, refer to README in the project folder.
 
 feature_list - features.txt file
@@ -20,7 +20,7 @@ x_train - train/X_train.txt
 
 y_train -train/Y_train.txt
 
-Processing variables
+<b>Processing variables</b><br>
 y_test_label - match y_test labels with corresponding activities
 
 tidy_test - binding test subject, test activity and test set
